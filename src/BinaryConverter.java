@@ -29,4 +29,5 @@ public class BinaryConverter {
         sb.reverse();
         return Integer.parseInt(sb.toString());
     }
+
 }
